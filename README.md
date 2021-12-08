@@ -1,6 +1,12 @@
 # PassGenerator
+ 
+ 
  THIS USAGE FILE FOR THE PASSWORD CREATION TOOL
 ################################################
+
+
+
+
 [1] You skip the seed value and the special characters.
 
 [2] But if you want to recover your password in future then you should enter seed value and save it somewhere, you should store the special character sequence if entered.
